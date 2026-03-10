@@ -44,7 +44,7 @@ This thesis synthesizes previously published research. The following peer-review
 1. **Plebani, R., Oliver, G. R., Trerotola, M., Guerra, E., Cantanelli, P., Apicella, L., Emerson, A., Albiero, A., Harkin, P. D., Kennedy, R. D., & Alberti, S.** (2012).  
    *Long-range transcriptome sequencing reveals cancer cell growth regulatory chimeric mRNA.*  
    **Neoplasia**, 14(11), 1087–1099.  
-   https://doi.org/10.1593/neo.121245  
+   https://doi.org/10.1593/neo.121342
    \*Authors contributed equally.
 
 2. **Oliver, G. R., Marcano-Bonilla, S., Quist, J., Tolosa, E. J., Iguchi, E., Swanson, A. A., Hoppman, N. L., Schwab, T., Sigafoos, A., Prodduturi, N., Voss, J. S., Knight, S. M., Zhang, J., Fadra, N., Urrutia, R., Zimmerman, M., Egan, J. B., Bilyeu, A. G., Jen, J., Veras, E., Al-Safi, R., Block, M., Kerr, S., Fernandez-Zapico, M. E., Schoolmeester, J. K., & Klee, E. W.** (2021).  
