@@ -45,24 +45,25 @@ The following peer-reviewed publications form the basis of the work presented in
    *Long-range transcriptome sequencing reveals cancer cell growth regulatory chimeric mRNA.*  
    **Neoplasia**, 14(11), 1087–1099.  
    https://doi.org/10.1593/neo.121342
+
    \*Authors contributed equally.
 
-2. **Oliver, G. R., Marcano-Bonilla, S., Quist, J., Tolosa, E. J., Iguchi, E., Swanson, A. A., Hoppman, N. L., Schwab, T., Sigafoos, A., Prodduturi, N., Voss, J. S., Knight, S. M., Zhang, J., Fadra, N., Urrutia, R., Zimmerman, M., Egan, J. B., Bilyeu, A. G., Jen, J., Veras, E., Al-Safi, R., Block, M., Kerr, S., Fernandez-Zapico, M. E., Schoolmeester, J. K., & Klee, E. W.** (2021).  
+3. **Oliver, G. R., Marcano-Bonilla, S., Quist, J., Tolosa, E. J., Iguchi, E., Swanson, A. A., Hoppman, N. L., Schwab, T., Sigafoos, A., Prodduturi, N., Voss, J. S., Knight, S. M., Zhang, J., Fadra, N., Urrutia, R., Zimmerman, M., Egan, J. B., Bilyeu, A. G., Jen, J., Veras, E., Al-Safi, R., Block, M., Kerr, S., Fernandez-Zapico, M. E., Schoolmeester, J. K., & Klee, E. W.** (2021).  
    *LPCAT1-TERT fusions are uniquely recurrent in epithelioid trophoblastic tumors and positively regulate cell growth.*  
    **PLOS ONE**, 16(5), e0250518.  
    https://doi.org/10.1371/journal.pone.0250518
 
-3. **Oliver, G. R., Blackburn, P. R., Ellingson, M. S., Conboy, E., Pinto e Vairo, F., Webley, M., Thorland, E., Ferber, M., Van Hul, E., van der Werf, I. M., Wuyts, W., Babovic-Vuksanovic, D., & Klee, E. W.** (2019).  
+4. **Oliver, G. R., Blackburn, P. R., Ellingson, M. S., Conboy, E., Pinto e Vairo, F., Webley, M., Thorland, E., Ferber, M., Van Hul, E., van der Werf, I. M., Wuyts, W., Babovic-Vuksanovic, D., & Klee, E. W.** (2019).  
    *A tailored approach to fusion transcript identification increases diagnosis of rare inherited disease.*  
    **PLOS ONE**, 14(10), e0223337.  
    https://doi.org/10.1371/journal.pone.0223337
 
-4. **Oliver, G. R., Tang, X., Schultz-Rogers, L. E., Vidal-Folch, N., Jenkinson, W. G., Schwab, T. L., Gaonkar, K., Cousin, M. A., Nair, A., Basu, S., Chanana, P., Oglesbee, D., & Klee, E. W.** (2019).  
+5. **Oliver, G. R., Tang, X., Schultz-Rogers, L. E., Vidal-Folch, N., Jenkinson, W. G., Schwab, T. L., Gaonkar, K., Cousin, M. A., Nair, A., Basu, S., Chanana, P., Oglesbee, D., & Klee, E. W.** (2019).  
    *RNA-Seq detects a SAMD12-EXT1 fusion transcript and leads to the discovery of an EXT1 deletion in a child with multiple osteochondromas.*  
    **Molecular Genetics & Genomic Medicine**, 7(3), e00560.  
    https://doi.org/10.1002/mgg3.560
 
-5. **Oliver, G. R., Jenkinson, W. G., & Klee, E. W.** (2020).  
+6. **Oliver, G. R., Jenkinson, W. G., & Klee, E. W.** (2020).  
    *Computational detection of known pathogenic gene fusions in a normal tissue database and implications for genetic disease research.*  
    **Frontiers in Genetics**, 11, 173.  
    https://doi.org/10.3389/fgene.2020.00173
