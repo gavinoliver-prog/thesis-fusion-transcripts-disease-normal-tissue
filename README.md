@@ -39,7 +39,7 @@ I describe my research efforts published over the course of the past decade thro
 
 ## Publications Underlying This Thesis
 
-This thesis synthesizes previously published research. The following peer-reviewed publications form the basis of the work presented in this dissertation.
+This thesis synthesizes published research. The following peer-reviewed publications form the basis of the work presented in this dissertation.
 
 1. **Plebani, R., Oliver, G. R., Trerotola, M., Guerra, E., Cantanelli, P., Apicella, L., Emerson, A., Albiero, A., Harkin, P. D., Kennedy, R. D., & Alberti, S.** (2012).  
    *Long-range transcriptome sequencing reveals cancer cell growth regulatory chimeric mRNA.*  
